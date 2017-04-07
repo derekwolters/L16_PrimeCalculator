@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\L16_PrimeCalculator\L16_PrimeCalculator\bin\Debug\L16_PrimeCalculator.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\L16_PrimeCalculator\L16_PrimeCalculator\obj\Debug\L16_PrimeCalculator.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\L16_PrimeCalculator\L16_PrimeCalculator\bin\Debug\L16_PrimeCalculator.exe
+c:\users\derek\documents\visual studio 2015\Projects\L16_PrimeCalculator\L16_PrimeCalculator\bin\Debug\L16_PrimeCalculator.pdb
+c:\users\derek\documents\visual studio 2015\Projects\L16_PrimeCalculator\L16_PrimeCalculator\obj\Debug\L16_PrimeCalculator.exe
+c:\users\derek\documents\visual studio 2015\Projects\L16_PrimeCalculator\L16_PrimeCalculator\obj\Debug\L16_PrimeCalculator.pdb
