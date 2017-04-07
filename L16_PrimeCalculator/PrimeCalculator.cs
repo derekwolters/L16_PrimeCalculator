@@ -1,6 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 
+///-----------------------------------------------------------------------------
+///   Namespace:    L16_PrimeCalculator
+///   Description:  Enter a number and receive the prime number located at that 
+///                 position 
+///   Author:       Derek Wolters                
+///   Date:         4.6.17
+///-----------------------------------------------------------------------------
+
 namespace L16_PrimeCalculator
 {
     class PrimeCalculator
